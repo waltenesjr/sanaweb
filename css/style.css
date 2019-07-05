@@ -12684,7 +12684,7 @@ textarea.form-control {
 }
 
 .ftco-section {
-    padding: 7em 0;
+    padding: 4em 0;
     position: relative;
 }
 
@@ -13197,13 +13197,13 @@ textarea.form-control {
 
 .ftco-counter .text span.number {
     font-weight: 400;
-    color: #000000;
+    color: #ffffff;
     font-size: 30px;
     font-weight: 400;
 }
 
 .ftco-counter .text span {
-    color: black;
+    color: #ffffff;
     margin-bottom: 10px;
     font-weight: 500;
     display: block;
